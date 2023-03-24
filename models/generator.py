@@ -1,11 +1,3 @@
-"""
-# -*- coding: utf-8 -*-
-# @Time    : 2023/3/18
-# @Author  : ThomasTse
-# @File    : generator.py
-# @IDE     : PyCharm
-"""
-
 # PyTorch Lib
 import torch
 from torch import nn
