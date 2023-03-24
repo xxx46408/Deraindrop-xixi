@@ -24,7 +24,7 @@ This project is unofficial pytorch implementation version of training parts.
 1. Download `vgg16-397923af.pth` beforehand 
 2. Generating Binary mask from clean images and degraded images by using `./uilt/mask_gen.py`
 3. Train your own weight by using `train.py`
-3. The best result of my implementation is under `./weights/best_gen.pkl` and `./weights/best_dis.pkl` ,and the test results are below:
+3. The best result of my implementation is under `./weights/best_gen.pkl` ,and the test results are below:
 
    **test_a :** PSNR-29.6134 SSIM-0.9025
    
