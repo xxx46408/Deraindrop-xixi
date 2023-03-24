@@ -1,11 +1,3 @@
-"""
-# -*- coding: utf-8 -*-
-# @Time    : 2023/3/18
-# @Author  : ThomasTse
-# @File    : metrics.py
-# @IDE     : PyCharm
-"""
-
 # Tools lib
 import cv2
 from skimage.metrics import peak_signal_noise_ratio as psnr
