@@ -1,11 +1,3 @@
-"""
-# -*- coding: utf-8 -*-
-# @Time    : 2023/3/18
-# @Author  : ThomasTse
-# @File    : train.py
-# @IDE     : PyCharm
-"""
-
 # PyTorch lib
 import torch
 from torch.autograd import Variable
