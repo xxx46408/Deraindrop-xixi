@@ -1,11 +1,3 @@
-"""
-# -*- coding: utf-8 -*-
-# @Time    : 2023/3/18
-# @Author  : ThomasTse
-# @File    : discriminator.py
-# @IDE     : PyCharm
-"""
-
 #PyTorch lib
 import torch
 import torch.nn as nn
