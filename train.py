@@ -125,7 +125,7 @@ def train():
     gt_list = sorted(os.listdir(args.gt_dir))
     mask_list = sorted(os.listdir(args.mask_dir))
     psnr_max = 0
-    logging.info(f"AttentionGAN🚀 torch{torch.__version__} device: cuda:{args.gpus}({d.name}, {d.total_memory / 1024 ** 2}MB)\n")
+    logging.info(f"AttentionGAN torch{torch.__version__} device: cuda:{args.gpus}({d.name}, {d.total_memory / 1024 ** 2}MB)\n")
 
     for e in range(previous_epoch + 1, args.epoch):
         epoch_loss = 0
